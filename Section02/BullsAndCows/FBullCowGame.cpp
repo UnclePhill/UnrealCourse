@@ -1,6 +1,6 @@
 #include "FBullCowGame.h"
 
-using int32 = int;
+using int32 = int;//just a test for changes....
 
 FBullCowGame::FBullCowGame() { FBullCowGame::Reset(); }
 int32 FBullCowGame::GetMaxTries()const{return MyMaxTries;}
